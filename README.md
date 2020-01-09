@@ -18,6 +18,7 @@ Season2 2019 Winter Study <br>
 - 영채 개인 공부 발표
 - 수현 개인 공부 발표 
 - 기홍 라이브 코딩 진행 (짧게) WOW!
+- 장후 개인 공부 발표 (rl 스터디, david silver 1주 1chapter 목표)
 
 <br>
 
