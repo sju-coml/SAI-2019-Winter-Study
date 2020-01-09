@@ -20,3 +20,7 @@ Season2 2019 Winter Study <br>
 - 기홍 라이브 코딩 진행 (짧게) WOW!
 
 <br>
+
+## 진행 상황
+
+<br>
