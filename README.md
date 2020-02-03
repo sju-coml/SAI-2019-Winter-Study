@@ -30,5 +30,30 @@ Season2 2019 Winter Study <br>
 - 수현[10min] : 1. 앞으로 무엇을 할 것인지 큰그림, 2. 시각화 tool 소개
 - 장후[55min] : 1. David silver 강화학습 Lecture 1
 
+<br>
+
+### 2020/01/31 (화, offline)
+
+- 상민 : cs231n 스터디 batch normalization
+- 기홍 : Linear 의 다른 의미, Bias Term 이 가지는 의미
+- 영채 : 
+
+<br>
+
+### 2020/01/31 (화, offline)
+
+- 현진 : cs231n 스터디 image classification
+- 기홍 : GAN 라이브 코딩
+- 영채 : LSTM 토크
+기홍 송별회 : 맛있는 것 먹고 다같이 PC방, 분명히 핸드시뮬레이터 하러 갔는데 끝말잇기 끄투온라인 하다가 끝남. N 나오면 Neural 부터 나오는 당신들은 도대체..
+
+**꿀팁**
+- b : batch, binary
+- c : convolution, convolutional, classification
+- d : detectoin
+- l : linear, link
+- n : neural, neuron, normalize, 이상민 : "na", "ni"
+- s : synapse
+- r : reinforcement, reinforce
 
 <br>
