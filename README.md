@@ -48,12 +48,14 @@ Season2 2019 Winter Study <br>
 기홍 송별회 : 맛있는 것 먹고 다같이 PC방, 분명히 핸드시뮬레이터 하러 갔는데 끝말잇기 끄투온라인 하다가 끝남. N 나오면 Neural 부터 나오는 당신들은 도대체..
 
 **꿀팁**
-- b : batch, binary
+- a : activation
+- b : batch, binary, bias
 - c : convolution, convolutional, classification
 - d : detectoin
 - l : linear, link
 - n : neural, neuron, normalize, 이상민 : "na", "ni"
-- s : synapse
+- s : synapse, sigmoid
+- f : function
 - r : reinforcement, reinforce
 
 <br>
