@@ -36,7 +36,7 @@ Season2 2019 Winter Study <br>
 
 - 상민 : cs231n 스터디 batch normalization
 - 기홍 : Linear 의 다른 의미, Bias Term 이 가지는 의미
-- 영채 : 
+- 영채 : RNN, LSTM 토크
 
 <br>
 
@@ -44,7 +44,7 @@ Season2 2019 Winter Study <br>
 
 - 현진 : cs231n 스터디 image classification
 - 기홍 : GAN 라이브 코딩
-- 영채 : LSTM 토크
+- 영채 : LSTM, Seq2seq 모델 요약 설명
 - 기홍 송별회 : 맛있는 것 먹고 다같이 PC방, 분명히 핸드시뮬레이터 하러 갔는데 끝말잇기 끄투온라인 하다가 끝남. N 나오면 Neural 부터 나오는 당신들은 도대체..
 
 **꿀팁**
@@ -52,10 +52,11 @@ Season2 2019 Winter Study <br>
 - b : batch, binary, bias
 - c : convolution, convolutional, classification
 - d : detectoin
+- e : *endoplasm* (>_<)
+- f : function
 - l : linear, link
 - n : neural, neuron, normalize, 이상민 : "na", "ni"
 - s : synapse, sigmoid
-- f : function
 - r : reinforcement, reinforce
-
+- y : yeah (이거 ㄹㅇ 개꿀팁)
 <br>
