@@ -64,5 +64,5 @@ Season2 2019 Winter Study <br>
 ### 2020/02/11 (화, offline)
 - 영채 : 데이터크롤링 라이브코딩 & GPT2 로맨스소설 프로젝트
 - 상민 : 써주셍
-- 장후 : 써주셍
+- 장후 : David silver 강화학습 Lecture 2
 - 기홍 : online 구경
