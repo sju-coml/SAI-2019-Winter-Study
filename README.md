@@ -66,3 +66,8 @@ Season2 2019 Winter Study <br>
 - 상민 : 리액션 담당
 - 장후 : David silver 강화학습 Lecture 2
 - 기홍 : online 구경
+<br>
+
+### 아오 3기준비
+- 하라는 공부는 안하고..
+- 다음부터는 ㄹㅇ 제대로 하자
